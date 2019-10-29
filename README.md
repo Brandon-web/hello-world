@@ -1,2 +1,4 @@
 # hello-world
-testing
+Hi everyone,
+
+I want to demystefy the world of coding.
